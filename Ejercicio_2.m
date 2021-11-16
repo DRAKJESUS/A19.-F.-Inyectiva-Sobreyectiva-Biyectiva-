@@ -3,7 +3,7 @@
 % Description		:DETERMINAR FUNCIONES
 % Author		    :ANGEL JESUS SANTIAGO HERNANDEZ
 % Date		    	:16/11/2021
-% Version		    :2
+% Ejercicio	    :2
 % Usage			    :DRAKJESUS
 %Notes:        Se necesita el programa Octave, usar su linea de comando
 %              https://octaveintro.readthedocs.io/en/latest/index.html
